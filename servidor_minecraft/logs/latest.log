@@ -152,3 +152,20 @@
 [14:26:13] [Server thread/INFO]: [Lea: Teleported Lea to 160.500000, 129.426702, -141.500000]
 [14:26:16] [Server thread/INFO]: [Lea: Teleported Lea to 160.500000, 129.426702, -143.500000]
 [14:26:26] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
+[14:27:56] [Server thread/INFO]: Lea was slain by Iron Golem
+[14:28:00] [Server thread/INFO]: [Lea: Teleported Lea to 160.500000, 69.000000, -143.500000]
+[14:28:05] [Server thread/INFO]: [Lea: Set own game mode to Spectator Mode]
+[14:28:07] [Server thread/INFO]: [Lea: Teleported Lea to 160.500000, 69.000000, -143.500000]
+[14:28:19] [Server thread/WARN]: Lea moved too quickly! 8.814433762934812,1.3068313479288065,-4.861575557402034
+[14:28:21] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
+[14:28:44] [Server thread/INFO]: Lea was slain by Iron Golem
+[14:28:48] [Server thread/INFO]: [Lea: Teleported Lea to 160.500000, 64.000000, -143.500000]
+[14:28:52] [Server thread/INFO]: [Lea: Set own game mode to Spectator Mode]
+[14:28:56] [Server thread/INFO]: [Lea: Teleported Lea to 160.500000, 64.000000, -143.500000]
+[14:29:16] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
+[14:34:01] [Server thread/INFO]: [Lea: Teleported Lea to -431.500000, 117.000000, 208.500000]
+[14:34:02] [Server thread/WARN]: Lea moved too quickly! 0.0,-10.806526110008988,0.0
+[14:34:05] [Server thread/INFO]: Lea fell from a high place
+[14:34:08] [Server thread/INFO]: [Lea: Teleported Lea to -431.500000, 63.000000, 208.500000]
+[14:35:54] [Server thread/INFO]: Lea fell from a high place
+[14:35:57] [Server thread/INFO]: [Lea: Teleported Lea to -431.500000, 63.000000, 208.500000]
