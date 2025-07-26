@@ -132,6 +132,7 @@
       "potato": "2025-07-25 15:09:00 +0000",
       "mutton": "2025-07-25 13:51:39 +0000",
       "bread": "2025-07-25 13:57:43 +0000",
+      "cookie": "2025-07-26 21:01:50 +0000",
       "suspicious_stew": "2025-07-26 19:56:59 +0000",
       "golden_carrot": "2025-07-26 20:03:58 +0000",
       "carrot": "2025-07-26 14:27:21 +0000"
@@ -640,6 +641,7 @@
       "minecraft:witch": "2025-07-26 20:39:45 +0000",
       "minecraft:wither_skeleton": "2025-07-26 16:59:59 +0000",
       "minecraft:piglin": "2025-07-26 17:06:55 +0000",
+      "minecraft:enderman": "2025-07-26 20:56:04 +0000",
       "minecraft:zombie": "2025-07-25 14:20:46 +0000"
     },
     "done": false
@@ -1630,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-26 20:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-07-26 20:30:56 +0000"
@@ -1690,9 +1698,27 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-26 21:04:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-26 20:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-26 20:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-26 20:52:13 +0000"
     },
     "done": true
   },
@@ -1828,9 +1854,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-26 20:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-26 20:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-26 20:52:13 +0000"
     },
     "done": true
   },
