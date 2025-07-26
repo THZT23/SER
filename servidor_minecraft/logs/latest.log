@@ -173,3 +173,26 @@
 [16:44:24] [Server thread/INFO]: Lea[/127.174.21.12:55151] logged in with entity id 72051 at (-452.9702871722999, 65.0, 201.96944680298918)
 [16:44:24] [Server thread/INFO]: Lea joined the game
 [16:44:55] [Server thread/INFO]: Lea was slain by GiovanyBy14
+[16:47:12] [Server thread/INFO]: [Lea: Kicked GiovanyBy14: Kicked by an operator]
+[16:47:12] [Server thread/INFO]: GiovanyBy14 lost connection: Kicked by an operator
+[16:47:12] [Server thread/INFO]: GiovanyBy14 left the game
+[16:47:21] [Server thread/INFO]: GiovanyBy14[/127.47.18.140:36273] logged in with entity id 73115 at (-459.84705755606683, 64.0, 174.93780946695927)
+[16:47:21] [Server thread/INFO]: GiovanyBy14 joined the game
+[16:52:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:52:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-72, y=70, z=112} gu{x=-71, y=70, z=112}
+[16:53:38] [Server thread/WARN]: GiovanyBy14 moved too quickly! -0.07775158226576195,-10.722248667987493,1.5679939627331407
+[16:54:02] [Server thread/INFO]: GiovanyBy14 has made the advancement [A Terrible Fortress]
+[16:54:19] [Server thread/INFO]: Lea tried to swim in lava
+[17:00:15] [Server thread/INFO]: GiovanyBy14 has made the advancement [Into Fire]
+[17:03:20] [Server thread/INFO]: Lea has made the advancement [Into Fire]
+[17:05:20] [Server thread/INFO]: GiovanyBy14 lost connection: Disconnected
+[17:05:20] [Server thread/INFO]: GiovanyBy14 left the game
