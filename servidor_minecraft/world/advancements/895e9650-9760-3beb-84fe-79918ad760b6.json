@@ -288,5 +288,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-07-26 14:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-26 14:46:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
