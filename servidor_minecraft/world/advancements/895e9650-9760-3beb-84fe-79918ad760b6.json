@@ -1634,5 +1634,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-26 16:30:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
