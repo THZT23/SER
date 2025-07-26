@@ -517,6 +517,7 @@
       "minecraft:skeleton": "2025-07-26 15:17:29 +0000",
       "minecraft:ghast": "2025-07-26 15:35:10 +0000",
       "minecraft:piglin_brute": "2025-07-26 15:23:14 +0000",
+      "minecraft:creeper": "2025-07-26 16:36:18 +0000",
       "minecraft:piglin": "2025-07-26 15:24:17 +0000",
       "minecraft:enderman": "2025-07-26 14:57:08 +0000",
       "minecraft:zombie": "2025-07-26 16:11:11 +0000",
@@ -1631,6 +1632,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-26 16:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-26 16:36:30 +0000"
     },
     "done": true
   },
