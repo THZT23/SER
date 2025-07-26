@@ -79,3 +79,19 @@
 [20:26:25] [Server thread/WARN]: GiovanyBy14 moved too quickly! -6.237585529324633,0.8322033533667508,-8.038132550576165
 [20:30:59] [Server thread/INFO]: Lea has made the advancement [Eye Spy]
 [20:31:41] [Server thread/INFO]: GiovanyBy14 has made the advancement [Eye Spy]
+[20:47:26] [Server thread/INFO]: [Lea: Set own game mode to Spectator Mode]
+[20:47:39] [Server thread/WARN]: Lea moved too quickly! 10.086758740142159,0.0,1.5565027086770442
+[20:48:02] [Server thread/INFO]: [Lea: Set GiovanyBy14's game mode to Spectator Mode]
+[20:48:11] [Server thread/WARN]: GiovanyBy14 moved too quickly! 10.346941956316641,0.0,0.5167555717857795
+[20:48:20] [Server thread/WARN]: GiovanyBy14 moved too quickly! -1.0574687496045954,-5.878534510077339,8.182199589472248
+[20:49:00] [Server thread/WARN]: Lea moved too quickly! -7.352191472577715,0.0,7.299587839174592
+[20:49:24] [Server thread/INFO]: [Lea: Set GiovanyBy14's game mode to Survival Mode]
+[20:49:28] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
+[20:50:30] [Server thread/INFO]: [Lea: Gave 1 [Smithing Template] to GiovanyBy14]
+[20:50:59] [Server thread/INFO]: [Lea: Set own game mode to Creative Mode]
+[20:51:05] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
+[20:51:45] [Server thread/INFO]: Lea has made the advancement [The End?]
+[20:51:48] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:51:48] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[20:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
+[20:52:31] [Server thread/INFO]: GiovanyBy14 has made the advancement [The End?]
