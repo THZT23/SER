@@ -123,7 +123,8 @@
       "apple": "2025-07-26 01:26:48 +0000",
       "potato": "2025-07-25 15:09:00 +0000",
       "mutton": "2025-07-25 13:51:39 +0000",
-      "bread": "2025-07-25 13:57:43 +0000"
+      "bread": "2025-07-25 13:57:43 +0000",
+      "carrot": "2025-07-26 14:27:21 +0000"
     },
     "done": false
   },
@@ -1198,6 +1199,48 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-26 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-07-26 14:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-26 14:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-26 14:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-26 14:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-26 14:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-26 14:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-26 14:27:33 +0000"
     },
     "done": true
   },
