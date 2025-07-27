@@ -192,3 +192,10 @@
 [17:41:14] [Server thread/INFO]: GiovanyBy14 was slain by Iron Golem
 [17:41:17] [Server thread/INFO]: Villager byb['Villager'/19728, l='ServerLevel[world]', x=-398.08, y=68.90, z=190.56] died, message: 'Villager was slain by Zombie'
 [17:43:44] [Server thread/INFO]: Villager byb['Villager'/19720, l='ServerLevel[world]', x=-389.69, y=63.90, z=175.73] died, message: 'Villager was slain by GiovanyBy14'
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-398, y=66, z=163} gu{x=-398, y=65, z=163}
+[17:53:22] [Server thread/INFO]: [Not Secure] <thiagoo> wwwwwwwwwwwwwwwww
+[17:53:46] [Server thread/WARN]: thiagoo moved too quickly! 8.280921711015253,-0.8322033533667508,6.4898764291287705
+[17:54:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-399, y=67, z=195} gu{x=-399, y=66, z=196}
+[17:54:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-399, y=68, z=195} gu{x=-399, y=67, z=194}
+[17:54:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-399, y=68, z=195} gu{x=-399, y=67, z=194}
+[17:56:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-406, y=68, z=187} gu{x=-404, y=67, z=188}
