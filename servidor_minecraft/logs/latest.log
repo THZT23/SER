@@ -1,109 +1,41 @@
-[19:41:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:41:49] [ServerMain/INFO]: Loaded 7 recipes
-[19:41:49] [ServerMain/INFO]: Loaded 1271 advancements
-[19:41:50] [Server thread/INFO]: Starting minecraft server version 1.20
-[19:41:50] [Server thread/INFO]: Loading properties
-[19:41:50] [Server thread/INFO]: Default game type: SURVIVAL
-[19:41:50] [Server thread/INFO]: Generating keypair
-[19:41:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:41:50] [Server thread/INFO]: Using epoll channel type
-[19:41:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:41:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:41:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:41:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:41:50] [Server thread/INFO]: Preparing level "world"
-[19:41:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:41:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:42:04] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[19:42:04] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[19:42:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[19:42:05] [Server thread/INFO]: Time elapsed: 9589 ms
-[19:42:05] [Server thread/INFO]: Done (15.107s)! For help, type "help"
-[19:42:43] [Server thread/INFO]: Lea[/127.200.218.237:44325] logged in with entity id 97 at (-481.21690202848913, 66.0, 215.6417818721708)
-[19:42:43] [Server thread/INFO]: Lea joined the game
-[19:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
-[19:43:13] [Server thread/INFO]: Lea lost connection: Timed out
-[19:43:13] [Server thread/INFO]: Lea left the game
-[19:43:31] [Server thread/INFO]: GiovanyBy14[/127.47.18.140:37263] logged in with entity id 412 at (-116.76871129994322, 75.0, 266.6596535546651)
-[19:43:31] [Server thread/INFO]: GiovanyBy14 joined the game
-[19:43:48] [Server thread/INFO]: Lea[/127.200.218.237:44617] logged in with entity id 591 at (-481.21690202848913, 66.0, 215.6417818721708)
-[19:43:48] [Server thread/INFO]: Lea joined the game
-[19:44:06] [Server thread/WARN]: Lea moved too quickly! 9.044540951001466,-1.7967356006687112,-4.3237068408984385
-[19:45:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-69, y=56, z=165} gu{x=-70, y=56, z=166}
-[19:47:01] [Server thread/WARN]: GiovanyBy14 moved too quickly! 10.164847049361356,-1.0292232112077642,1.1391575895149515
-[19:47:16] [Server thread/WARN]: GiovanyBy14 moved too quickly! 9.991519135161298,-0.2468000194787976,-0.7766387431632609
-[19:48:51] [Server thread/INFO]: GiovanyBy14 lost connection: Disconnected
-[19:48:51] [Server thread/INFO]: GiovanyBy14 left the game
-[19:48:58] [Server thread/INFO]: GiovanyBy14[/127.47.18.140:41377] logged in with entity id 2951 at (-443.7419529695459, 64.0, 168.7948032040771)
-[19:48:58] [Server thread/INFO]: GiovanyBy14 joined the game
-[19:50:58] [Server thread/INFO]: GiovanyBy14 lost connection: You logged in from another location
-[19:50:58] [Server thread/INFO]: GiovanyBy14 left the game
-[19:50:58] [Server thread/INFO]: GiovanyBy14[/127.116.255.85:60457] logged in with entity id 4443 at (-466.50686252410736, 65.79673560066871, 189.35906561480894)
-[19:50:58] [Server thread/INFO]: GiovanyBy14 joined the game
-[20:11:24] [Server thread/INFO]: Lea has made the advancement [Take Aim]
-[20:11:27] [Server thread/INFO]: GiovanyBy14 lost connection: Disconnected
-[20:11:27] [Server thread/INFO]: GiovanyBy14 left the game
-[20:11:34] [Server thread/INFO]: GiovanyBy14[/127.116.255.85:44549] logged in with entity id 16775 at (-461.75313101311474, 66.36277412219724, 208.7333320999652)
-[20:11:34] [Server thread/INFO]: GiovanyBy14 joined the game
-[20:14:27] [Server thread/INFO]: Lea fell from a high place
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 0.33595339720318407
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 0.5342720124145899
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 0.7143771021840166
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 1.6250205124580361
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 1.6250205124580361
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 1.3224900300893978
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 1.726320360865543
-[20:17:12] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 1.3711200470431777
-[20:17:13] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 1.076068618669865
-[20:17:13] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 0.7239021882384122
-[20:17:13] [Server thread/WARN]: Boat (vehicle of Lea) moved wrongly! 0.3739363273469962
-[20:19:50] [Server thread/WARN]: GiovanyBy14 moved too quickly! -1.502692161210689,-6.42030145632387,7.983245921837579
-[20:20:55] [Server thread/WARN]: GiovanyBy14 moved too quickly! -2.457850018762315,-7.231523797587016,6.64817637579381
-[20:24:15] [Server thread/WARN]: GiovanyBy14 moved too quickly! -5.738785714534174,1.7722207479599632,8.103836527320027
-[20:25:59] [Server thread/WARN]: GiovanyBy14 moved too quickly! -9.82139259966084,1.2468000194787976,1.749201666008048
-[20:26:25] [Server thread/WARN]: GiovanyBy14 moved too quickly! -6.237585529324633,0.8322033533667508,-8.038132550576165
-[20:30:59] [Server thread/INFO]: Lea has made the advancement [Eye Spy]
-[20:31:41] [Server thread/INFO]: GiovanyBy14 has made the advancement [Eye Spy]
-[20:47:26] [Server thread/INFO]: [Lea: Set own game mode to Spectator Mode]
-[20:47:39] [Server thread/WARN]: Lea moved too quickly! 10.086758740142159,0.0,1.5565027086770442
-[20:48:02] [Server thread/INFO]: [Lea: Set GiovanyBy14's game mode to Spectator Mode]
-[20:48:11] [Server thread/WARN]: GiovanyBy14 moved too quickly! 10.346941956316641,0.0,0.5167555717857795
-[20:48:20] [Server thread/WARN]: GiovanyBy14 moved too quickly! -1.0574687496045954,-5.878534510077339,8.182199589472248
-[20:49:00] [Server thread/WARN]: Lea moved too quickly! -7.352191472577715,0.0,7.299587839174592
-[20:49:24] [Server thread/INFO]: [Lea: Set GiovanyBy14's game mode to Survival Mode]
-[20:49:28] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
-[20:50:30] [Server thread/INFO]: [Lea: Gave 1 [Smithing Template] to GiovanyBy14]
-[20:50:59] [Server thread/INFO]: [Lea: Set own game mode to Creative Mode]
-[20:51:05] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
-[20:51:45] [Server thread/INFO]: Lea has made the advancement [The End?]
-[20:51:48] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[20:51:48] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[20:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
-[20:52:31] [Server thread/INFO]: GiovanyBy14 has made the advancement [The End?]
-[20:53:28] [Server thread/WARN]: Lea moved too quickly! -3.0734796680381535,16.82707604249636,7.387705128601162
-[20:53:30] [Server thread/INFO]: Lea was doomed to fall by Ender Dragon
-[20:53:36] [Server thread/WARN]: Lea moved too quickly! 1345.6725166255535,77.46415937495544,-1832.1919081185579
-[20:55:18] [Server thread/INFO]: GiovanyBy14 was doomed to fall by Lea
-[20:56:28] [Server thread/WARN]: GiovanyBy14 moved too quickly! -36.054322842194075,50.15805260856591,-17.17785858977736
-[20:56:30] [Server thread/INFO]: GiovanyBy14 was doomed to fall by Ender Dragon
-[20:57:02] [Server thread/WARN]: GiovanyBy14 moved too quickly! -8.037360328902057,0.5764407054569602,-6.095354866105913
-[20:59:13] [Server thread/INFO]: Lea hit the ground too hard whilst trying to escape Ender Dragon
-[21:00:21] [Server thread/INFO]: GiovanyBy14 has made the advancement [Free the End]
-[21:02:38] [Server thread/INFO]: GiovanyBy14 fell out of the world
-[21:04:16] [Server thread/INFO]: GiovanyBy14 has made the advancement [Remote Getaway]
-[21:04:52] [Server thread/INFO]: Lea has made the advancement [Remote Getaway]
+[16:17:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:17:14] [ServerMain/INFO]: Loaded 7 recipes
+[16:17:14] [ServerMain/INFO]: Loaded 1271 advancements
+[16:17:15] [Server thread/INFO]: Starting minecraft server version 1.20
+[16:17:15] [Server thread/INFO]: Loading properties
+[16:17:15] [Server thread/INFO]: Default game type: SURVIVAL
+[16:17:15] [Server thread/INFO]: Generating keypair
+[16:17:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:17:15] [Server thread/INFO]: Using epoll channel type
+[16:17:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:17:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:17:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:17:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:17:15] [Server thread/INFO]: Preparing level "world"
+[16:17:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:17:30] [Server thread/INFO]: Time elapsed: 8783 ms
+[16:17:30] [Server thread/INFO]: Done (14.444s)! For help, type "help"
+[16:17:45] [Server thread/INFO]: Lea[/127.200.218.237:45853] logged in with entity id 176 at (-59.42989413133344, 55.0, -6.447328567928308)
+[16:17:45] [Server thread/INFO]: Lea joined the game
+[16:20:19] [Server thread/INFO]: GiovanyBy14[/127.91.3.7:55791] logged in with entity id 678 at (-64.59204431821945, 54.0, -7.675863401182446)
+[16:20:19] [Server thread/INFO]: GiovanyBy14 joined the game
+[16:22:28] [Server thread/INFO]: Lea was slain by Zombie
+[16:26:58] [Server thread/INFO]: GiovanyBy14 lost connection: Disconnected
+[16:26:58] [Server thread/INFO]: GiovanyBy14 left the game
