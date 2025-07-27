@@ -141,3 +141,13 @@
 [16:57:17] [Server thread/INFO]: thiagoo was slain by Lea
 [16:57:20] [Server thread/INFO]: [Lea: Teleported thiagoo to Lea]
 [16:57:34] [Server thread/INFO]: thiagoo has made the advancement [Stone Age]
+[16:58:56] [Server thread/INFO]: thiagoo has made the advancement [What a Deal!]
+[17:00:55] [Server thread/WARN]: thiagoo moved too quickly! 9.57174314912038,-0.49520087700592796,-3.377192260939495
+[17:01:32] [Server thread/INFO]: thiagoo has made the advancement [Cover Me with Diamonds]
+[17:03:19] [Server thread/INFO]: Lea was slain by Iron Golem
+[17:03:20] [Server thread/INFO]: thiagoo was slain by Iron Golem
+[17:03:41] [Server thread/INFO]: [Lea: Teleported thiagoo to Lea]
+[17:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-428, y=64, z=151} gu{x=-428, y=62, z=151}
+[17:07:46] [Server thread/WARN]: Boat (vehicle of GiovanyBy14) moved wrongly! 0.2827281659681944
+[17:07:46] [Server thread/WARN]: Boat (vehicle of GiovanyBy14) moved wrongly! 0.3786879980237927
+[17:07:47] [Server thread/WARN]: Boat (vehicle of GiovanyBy14) moved wrongly! 0.31445699080575196
