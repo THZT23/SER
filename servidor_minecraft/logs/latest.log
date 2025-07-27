@@ -246,3 +246,20 @@
 [18:35:56] [Server thread/INFO]: Villager byb['Villager'/19704, l='ServerLevel[world]', x=-447.19, y=63.90, z=176.47] died, message: 'Villager was slain by Zombie'
 [18:37:04] [Server thread/INFO]: [Not Secure] <thiagoo> WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 [18:37:31] [Server thread/INFO]: thiagoo tried to swim in lava
+[18:43:24] [Server thread/INFO]: Lea lost connection: Disconnected
+[18:43:24] [Server thread/INFO]: Lea left the game
+[18:43:30] [Server thread/INFO]: Lea[/127.200.218.237:45575] logged in with entity id 78062 at (-1259.0713333063575, 63.087786027409464, 518.8124871802557)
+[18:43:30] [Server thread/INFO]: Lea joined the game
+[18:45:39] [Server thread/INFO]: thiagoo lost connection: Timed out
+[18:45:39] [Server thread/INFO]: thiagoo left the game
+[18:45:55] [Server thread/INFO]: thiagoo[/127.113.223.133:51679] logged in with entity id 81219 at (-448.08813888482786, 64.0, 206.06901904596498)
+[18:45:55] [Server thread/INFO]: thiagoo joined the game
+[18:48:02] [Server thread/INFO]: Lea lost connection: Disconnected
+[18:48:02] [Server thread/INFO]: Lea left the game
+[18:48:32] [Server thread/INFO]: Lea[/127.200.218.237:60893] logged in with entity id 84057 at (-1327.6291455475155, 109.0, 1394.088048728152)
+[18:48:32] [Server thread/INFO]: Lea joined the game
+[18:49:51] [Server thread/WARN]: thiagoo moved too quickly! 7.935567404621963,1.0013359791121417,-6.26712470639913
+[18:59:28] [Server thread/INFO]: [Not Secure] <thiagoo> WWWWWWWWWWWWWWWWWWWWWWWWWWW
+[18:59:29] [Server thread/INFO]: [Not Secure] <thiagoo> WWWWWWWWWWWWWWWWWW
+[18:59:31] [Server thread/INFO]: Lea lost connection: Disconnected
+[18:59:31] [Server thread/INFO]: Lea left the game
