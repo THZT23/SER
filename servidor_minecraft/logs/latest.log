@@ -286,3 +286,9 @@
 [19:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
 [19:14:32] [Server thread/INFO]: [Lea: Teleported Lea to -1245.500000, 64.000000, 1823.500000]
 [19:15:07] [Server thread/INFO]: Lea was impaled on a stalagmite
+[19:20:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-405, y=65, z=216} gu{x=-405, y=64, z=217}
+[19:20:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-404, y=66, z=212} gu{x=-405, y=64, z=215}
+[19:20:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-408, y=64, z=223} gu{x=-408, y=65, z=219}
+[19:21:35] [Server thread/INFO]: [Not Secure] <thiagoo> DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[19:23:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-418, y=63, z=218} gu{x=-419, y=63, z=218}
+[19:23:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-422, y=64, z=216} gu{x=-423, y=65, z=216}
