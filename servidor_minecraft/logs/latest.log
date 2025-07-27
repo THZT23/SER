@@ -310,3 +310,17 @@
 [19:47:19] [Server thread/INFO]: thiagoo fell from a high place
 [19:49:39] [Server thread/WARN]: thiagoo moved too quickly! -7.586906963403067,1.003967839911212,6.982705495359369
 [19:49:47] [Server thread/INFO]: thiagoo fell from a high place
+[19:51:15] [Server thread/INFO]: thiagoo fell from a high place
+[19:51:29] [Server thread/INFO]: [Not Secure] <thiagoo> w
+[19:56:42] [Server thread/INFO]: Lea[/127.200.218.237:33987] logged in with entity id 116188 at (-445.95250797112953, 64.0, 169.4694737213195)
+[19:56:42] [Server thread/INFO]: Lea joined the game
+[19:58:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-564, y=62, z=146} gu{x=-564, y=61, z=147}
+[19:58:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-566, y=61, z=147} gu{x=-566, y=58, z=147}
+[19:58:54] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-566, y=61, z=151} gu{x=-565, y=59, z=150}
+[19:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-579, y=61, z=151} gu{x=-577, y=60, z=152}
+[19:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-579, y=61, z=151} gu{x=-577, y=60, z=152}
+[19:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-577, y=61, z=152} gu{x=-577, y=60, z=152}
+[19:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-577, y=62, z=151} gu{x=-577, y=60, z=152}
+[19:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-577, y=62, z=151} gu{x=-577, y=60, z=152}
+[19:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-577, y=62, z=151} gu{x=-577, y=60, z=152}
+[19:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-577, y=62, z=151} gu{x=-577, y=60, z=152}
