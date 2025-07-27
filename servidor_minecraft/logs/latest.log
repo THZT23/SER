@@ -337,3 +337,22 @@
 [20:26:06] [Server thread/INFO]: Lea fell from a high place
 [20:30:04] [Server thread/INFO]: Lea was slain by Iron Golem
 [20:30:28] [Server thread/INFO]: [Not Secure] <thiagoo> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[20:41:46] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
+[20:42:30] [Server thread/INFO]: [Not Secure] <thiagoo> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[20:42:31] [Server thread/INFO]: [Not Secure] <Lea> qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[20:42:51] [Server thread/INFO]: [Not Secure] <Lea> qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[20:42:53] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
+[20:45:31] [Server thread/INFO]: Lea has made the advancement [Ol' Betsy]
+[20:47:08] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
+[20:47:52] [Server thread/INFO]: thiagoo lost connection: Timed out
+[20:47:52] [Server thread/INFO]: thiagoo left the game
+[20:48:09] [Server thread/INFO]: thiagoo[/127.249.248.73:50025] logged in with entity id 133882 at (-491.24832144102146, 116.0, 264.18297514260905)
+[20:48:09] [Server thread/INFO]: thiagoo joined the game
+[20:48:14] [Server thread/INFO]: thiagoo was shot by Lea
+[20:48:54] [Server thread/INFO]: thiagoo lost connection: Timed out
+[20:48:54] [Server thread/INFO]: thiagoo left the game
+[20:49:02] [Server thread/INFO]: thiagoo[/127.249.248.73:56027] logged in with entity id 134057 at (-505.76249998807907, 117.0, 260.11326282307203)
+[20:49:02] [Server thread/INFO]: thiagoo joined the game
+[20:49:29] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
+[20:49:34] [Server thread/INFO]: thiagoo was shot by Lea
+[20:49:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-486, y=117, z=264} gu{x=-484, y=115, z=264}

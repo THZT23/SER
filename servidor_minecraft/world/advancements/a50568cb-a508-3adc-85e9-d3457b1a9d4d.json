@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-26 20:22:03 +0000",
       "minecraft:taiga": "2025-07-25 14:31:14 +0000",
+      "minecraft:cherry_grove": "2025-07-27 20:40:52 +0000",
       "minecraft:windswept_hills": "2025-07-26 20:23:46 +0000",
       "minecraft:beach": "2025-07-26 20:17:28 +0000",
       "minecraft:river": "2025-07-25 15:12:35 +0000",
@@ -136,6 +137,7 @@
       "potato": "2025-07-25 15:09:00 +0000",
       "mutton": "2025-07-25 13:51:39 +0000",
       "bread": "2025-07-25 13:57:43 +0000",
+      "golden_apple": "2025-07-27 20:38:31 +0000",
       "cookie": "2025-07-26 21:01:50 +0000",
       "suspicious_stew": "2025-07-26 19:56:59 +0000",
       "golden_carrot": "2025-07-26 20:03:58 +0000",
@@ -2496,6 +2498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-27 20:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-27 20:03:44 +0000"
@@ -2583,6 +2591,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-27 20:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-27 20:45:31 +0000"
     },
     "done": true
   },
