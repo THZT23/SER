@@ -176,3 +176,11 @@
 [17:17:47] [Server thread/WARN]: thiagoo moved too quickly! -0.04681320485639162,-10.544157833446192,0.009474854028240998
 [17:17:48] [Server thread/INFO]: thiagoo was doomed to fall by Lea
 [17:17:55] [Server thread/INFO]: [Lea: Teleported thiagoo to Lea]
+[17:19:55] [Server thread/INFO]: thiagoo has made the advancement [A Terrible Fortress]
+[17:21:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-66, y=81, z=236} gu{x=-66, y=79, z=236}
+[17:22:57] [Server thread/WARN]: thiagoo moved too quickly! 4.313461576944965,-9.511361445793504,0.027790509597139135
+[17:23:51] [Server thread/INFO]: thiagoo has made the advancement [Monster Hunter]
+[17:27:19] [Server thread/INFO]: thiagoo has made the advancement [Not Today, Thank You]
+[17:27:54] [Server thread/INFO]: Villager byb['Villager'/19711, l='ServerLevel[world]', x=-390.89, y=65.02, z=179.18] died, message: 'Villager was slain by Zombie'
+[17:27:59] [Server thread/INFO]: Villager byb['Villager'/19722, l='ServerLevel[world]', x=-389.69, y=64.46, z=179.02] died, message: 'Villager was slain by Zombie'
+[17:28:14] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
