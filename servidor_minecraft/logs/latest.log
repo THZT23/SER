@@ -263,3 +263,26 @@
 [18:59:29] [Server thread/INFO]: [Not Secure] <thiagoo> WWWWWWWWWWWWWWWWWW
 [18:59:31] [Server thread/INFO]: Lea lost connection: Disconnected
 [18:59:31] [Server thread/INFO]: Lea left the game
+[18:59:58] [Server thread/INFO]: Lea[/127.200.218.237:34381] logged in with entity id 94795 at (45.31091697569488, 59.0, 0.01635833216637128)
+[18:59:58] [Server thread/INFO]: Lea joined the game
+[19:02:41] [Server thread/INFO]: [Not Secure] <Lea> 1384 ~ 88
+[19:02:41] [Server thread/WARN]: thiagoo was kicked for floating too long!
+[19:02:41] [Server thread/INFO]: thiagoo lost connection: Flying is not enabled on this server
+[19:02:41] [Server thread/INFO]: thiagoo left the game
+[19:02:54] [Server thread/INFO]: thiagoo[/127.113.223.133:51551] logged in with entity id 96829 at (-476.55552140003323, 65.16610926093821, 211.976507379515)
+[19:02:54] [Server thread/INFO]: thiagoo joined the game
+[19:03:10] [Server thread/INFO]: [Not Secure] <Lea> 1384 ~ 88
+[19:04:33] [Server thread/WARN]: thiagoo moved too quickly! 9.019112322196804,0.0,-4.639894936013377
+[19:04:52] [Server thread/INFO]: [Not Secure] <Lea> 56 ~ -1880
+[19:07:42] [Server thread/INFO]: [Not Secure] <Lea> 56 ~ -1880
+[19:10:18] [Server thread/INFO]: [Not Secure] <thiagoo> WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+[19:11:29] [Server thread/INFO]: Lea was doomed to fall by Enderman
+[19:11:44] [Server thread/INFO]: [Lea: Teleported Lea to 56.500000, 64.000000, -1879.500000]
+[19:11:47] [Server thread/WARN]: Lea moved too quickly! 0.0,-10.80652611000901,0.0
+[19:11:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[19:13:26] [Server thread/INFO]: [Lea: Teleported Lea to -1245.500000, 62.000000, 1823.500000]
+[19:13:30] [Server thread/INFO]: Lea was impaled on a stalagmite
+[19:14:17] [Server thread/INFO]: [Lea: Teleported Lea to -1245.500000, 64.562500, -1822.500000]
+[19:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
+[19:14:32] [Server thread/INFO]: [Lea: Teleported Lea to -1245.500000, 64.000000, 1823.500000]
+[19:15:07] [Server thread/INFO]: Lea was impaled on a stalagmite
