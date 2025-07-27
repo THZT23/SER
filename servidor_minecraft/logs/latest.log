@@ -292,3 +292,21 @@
 [19:21:35] [Server thread/INFO]: [Not Secure] <thiagoo> DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 [19:23:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-418, y=63, z=218} gu{x=-419, y=63, z=218}
 [19:23:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-422, y=64, z=216} gu{x=-423, y=65, z=216}
+[19:30:22] [Server thread/INFO]: Lea lost connection: Disconnected
+[19:30:22] [Server thread/INFO]: Lea left the game
+[19:31:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-509, y=118, z=263} gu{x=-510, y=117, z=263}
+[19:33:07] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-516, y=119, z=261} gu{x=-515, y=118, z=260}
+[19:33:07] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-516, y=120, z=259} gu{x=-516, y=118, z=259}
+[19:33:10] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-513, y=119, z=254} gu{x=-513, y=118, z=253}
+[19:34:25] [Server thread/INFO]: thiagoo fell from a high place
+[19:34:41] [Server thread/INFO]: [Not Secure] <thiagoo> wde
+[19:34:46] [Server thread/INFO]: thiagoo was slain by Iron Golem
+[19:43:05] [Server thread/WARN]: thiagoo moved too quickly! -3.595593214936457,1.1661092609382138,9.32841480293959
+[19:43:40] [Server thread/WARN]: thiagoo was kicked for floating too long!
+[19:43:40] [Server thread/INFO]: thiagoo lost connection: Flying is not enabled on this server
+[19:43:40] [Server thread/INFO]: thiagoo left the game
+[19:44:02] [Server thread/INFO]: thiagoo[/127.249.248.73:59583] logged in with entity id 111885 at (-515.2798433707463, 119.7531999805212, 268.5099406786292)
+[19:44:02] [Server thread/INFO]: thiagoo joined the game
+[19:47:19] [Server thread/INFO]: thiagoo fell from a high place
+[19:49:39] [Server thread/WARN]: thiagoo moved too quickly! -7.586906963403067,1.003967839911212,6.982705495359369
+[19:49:47] [Server thread/INFO]: thiagoo fell from a high place
