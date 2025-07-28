@@ -132,3 +132,9 @@
 [03:35:55] [Server thread/INFO]: [Not Secure] <thiagoo> PERRO
 [03:36:38] [Server thread/INFO]: You whisper to thiagoo: PERROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 [03:36:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-484, y=65, z=178} gu{x=-484, y=63, z=177}
+[03:46:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-382, y=96, z=244} gu{x=-382, y=95, z=245}
+[03:47:07] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-377, y=96, z=254} gu{x=-376, y=96, z=253}
+[03:47:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-406, y=86, z=286} gu{x=-406, y=85, z=284}
+[03:47:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-406, y=86, z=286} gu{x=-406, y=85, z=284}
+[03:47:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-406, y=86, z=286} gu{x=-406, y=85, z=284}
+[03:48:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-424, y=86, z=295} gu{x=-426, y=84, z=295}
