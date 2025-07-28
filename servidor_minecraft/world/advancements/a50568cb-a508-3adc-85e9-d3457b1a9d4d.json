@@ -2727,6 +2727,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-28 02:31:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-28 01:54:12 +0000"
@@ -2756,6 +2762,13 @@
       "has_smithing_trim_template": "2025-07-28 02:26:04 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-07-28 02:31:03 +0000",
+      "minecraft:red": "2025-07-28 02:32:22 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3463
 }
