@@ -203,3 +203,9 @@
 [02:51:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-510, y=117, z=282} gu{x=-511, y=116, z=282}
 [02:51:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-510, y=117, z=282} gu{x=-511, y=116, z=282}
 [02:52:31] [Server thread/WARN]: thiagoo moved too quickly! 0.004118944436299898,-10.195000125169798,0.08914573645284918
+[02:56:04] [Server thread/WARN]: thiagoo moved too quickly! 0.3299269637674911,10.321270281830792,1.6099525225274078
+[03:01:33] [Server thread/INFO]: Lea lost connection: Disconnected
+[03:01:33] [Server thread/INFO]: Lea left the game
+[03:01:53] [Server thread/INFO]: Lea[/127.200.218.237:59583] logged in with entity id 94250 at (-437.30000001192093, 64.0, 188.69999998807907)
+[03:01:53] [Server thread/INFO]: Lea joined the game
+[03:01:58] [Server thread/INFO]: thiagoo was shot by Skeleton
